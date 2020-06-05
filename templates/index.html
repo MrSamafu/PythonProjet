@@ -20,6 +20,10 @@
                             <input type="number" id="prixObjet" name="prixObjet" placeholder= 0><br/>
                             <input class="btn btn-primary" type="submit" value="Envoyer">
                         </div>
+                        <form action="/" method="get">
+                            <div class="form-group" >
+                                <input class="btn btn-primary" type="submit" value="Relancer une partie">
+                            </div>
                     </form>
                     <p>Vous avez dit : {{ data.reponse }} euros</p>
                     <p>{{ data.resultat }}</p>
