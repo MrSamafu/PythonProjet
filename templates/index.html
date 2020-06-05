@@ -1,0 +1,37 @@
+<html>
+    <head>
+        <title>Home Page - JustePrix</title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    </head>
+    <body class="jumbotron " >
+        <div class="d-flex justify-content-around w-auto p-3 h-100 d-inline-block">
+            <div class="d-flex align-items-center alert alert-dark">
+                <div class="alert alert-secondary text-center">
+                    <h1>{{ title }}</h1>
+                    <p>Voici le produit que tu dois estimer : {{ data.product }}</p>
+                    <p>Voici son prix : {{ data.price }} euros</p>
+                    <img class="rounded" src= {{ data.image }} alt={{ data.product }}>
+                    <p>{{ data.description }}</p>
+                </div>
+                <div class="alert alert-secondary">
+                    <form action="/" method="post">
+                        <div class="form-group" >
+                            <label for="prix">Donner le prix de l'objet</label><br/>
+                            <input type="number" id="prixObjet" name="prixObjet" placeholder= 0><br/>
+                            <input class="btn btn-primary" type="submit" value="Envoyer">
+                        </div>
+                    </form>
+                    <p>Vous avez dit : {{ data.reponse }} euros</p>
+                    <p>{{ data.resultat }}</p>
+                    <ul class="list-group">
+                        <Label>Vos tentatives : </Label>
+                        {% for value in data.tentative %}
+                        <li class="list-group-item" >Vous avez dit {{ value }}</li>
+                        {% endfor %}
+                    </ul>
+                    <p>{{ data.tentative }}</p>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

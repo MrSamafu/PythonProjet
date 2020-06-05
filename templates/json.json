@@ -1,0 +1,203 @@
+{
+    "ErrorMessage": null,
+    "ItemCount": "100",
+    "PageCount": "20",
+    "PageNumber": "0",
+    "Products": [
+      {
+        "AssociatedProducts": null,
+        "BestOffer": {
+          "Condition": "New",
+          "Id": "270213659",
+          "IsAvailable": true,
+          "PriceDetails": {
+            "Discount": null,
+            "ReferencePrice": "0",
+            "Saving": null
+          },
+          "ProductURL": "http://www.cdiscount.com/opa.aspx/?trackingid=R8EQD6DnyfenDKmtGLSWalGwdJD0spzlG8hRQIWDFT7f2MM5RzQgaCSCF69wB-2C&action=product&id=ASU4712900691542&offerid=270213659",
+          "SalePrice": "49.0000",
+          "Seller": {
+            "Id": "8038",
+            "Name": "France Accessoires"
+          },
+          "Shippings": [
+            {
+              "DelayToDisplay": "Expédié sous -17701872 heures",
+              "MaxDeliveryDate": "2020-06-09T00:00:00+02:00",
+              "MinDeliveryDate": "2020-06-05T00:00:00+02:00",
+              "Name": "Envoi Suivi",
+              "Price": "0"
+            }
+          ],
+          "Sizes": null
+        },
+        "Brand": "ASUS",
+        "Description": "Asus Station d'accueil clavier pour ZenPad Z301M&amp;nbsp; Transforme votre tablette en PC. Clavier bluetooth avec batterie int&amp;eacute;gr&amp;eacute;e. Dimensions : 24,86 x 17,63 x 0,86 cm Poids : 430g Ce produit est uniquement disponible en AZERTY FRANCAIS. Attention : Produit uniquement compatible avec les tablettes ZenPad 10 Z301ML Produit neuf d'origine Asus Garantie constructeur de 12 mois Facture",
+        "Ean": null,
+        "Id": "ASU4712900691542",
+        "Images": null,
+        "MainImageUrl": "http://i2.cdscdn.com/pdt2/5/4/2/1/300x300/ASU4712900691542.jpg",
+        "Name": "Asus Station d'accueil clavier pour ZenPad Z301M",
+        "Offers": null,
+        "OffersCount": "1",
+        "Rating": "5"
+      },
+      {
+        "AssociatedProducts": null,
+        "BestOffer": {
+          "Condition": "New",
+          "Id": "419552501",
+          "IsAvailable": true,
+          "PriceDetails": {
+            "Discount": null,
+            "ReferencePrice": "0",
+            "Saving": null
+          },
+          "ProductURL": "http://www.cdiscount.com/opa.aspx/?trackingid=R8EQD6DnyfenDKmtGLSWalGwdJD0spzlG8hRQIWDFT7f2MM5RzQgaCSCF69wB-2C&action=product&id=ASU4718017249867&offerid=419552501",
+          "SalePrice": "59.9000",
+          "Seller": {
+            "Id": "8038",
+            "Name": "France Accessoires"
+          },
+          "Shippings": [
+            {
+              "DelayToDisplay": "Expédié sous -17701896 heures",
+              "MaxDeliveryDate": "2020-06-10T00:00:00+02:00",
+              "MinDeliveryDate": "2020-06-08T00:00:00+02:00",
+              "Name": "Envoi Suivi",
+              "Price": "0"
+            }
+          ],
+          "Sizes": null
+        },
+        "Brand": "ASUS",
+        "Description": "ASUS Active stylus SA200H - Stylet - 2 boutons - sans fil - noir",
+        "Ean": null,
+        "Id": "ASU4718017249867",
+        "Images": null,
+        "MainImageUrl": "http://i2.cdscdn.com/pdt2/8/6/7/1/300x300/ASU4718017249867.jpg",
+        "Name": "ASUS Stylet pour appareil Microsoft Pen Protocol - Argenté",
+        "Offers": null,
+        "OffersCount": "5",
+        "Rating": "4"
+      },
+      {
+        "AssociatedProducts": null,
+        "BestOffer": {
+          "Condition": "New",
+          "Id": "215289736",
+          "IsAvailable": true,
+          "PriceDetails": {
+            "Discount": null,
+            "ReferencePrice": "0",
+            "Saving": null
+          },
+          "ProductURL": "http://www.cdiscount.com/opa.aspx/?trackingid=R8EQD6DnyfenDKmtGLSWalGwdJD0spzlG8hRQIWDFT7f2MM5RzQgaCSCF69wB-2C&action=product&id=90XB015PBSL070&offerid=215289736",
+          "SalePrice": "5.0000",
+          "Seller": {
+            "Id": "8038",
+            "Name": "France Accessoires"
+          },
+          "Shippings": [
+            {
+              "DelayToDisplay": "Expédié sous -17701896 heures",
+              "MaxDeliveryDate": "2020-06-10T00:00:00+02:00",
+              "MinDeliveryDate": "2020-06-08T00:00:00+02:00",
+              "Name": "Envoi Suivi",
+              "Price": "0"
+            }
+          ],
+          "Sizes": null
+        },
+        "Brand": "ASUS",
+        "Description": "Etui de protection avec rabat pour Asus MeMO Pad 10.1\" - Fixé à l'arrière de la tablette avec un rabat protégeant l'écran - Offre 2 positions de support paysage et portrait",
+        "Ean": null,
+        "Id": "90XB015PBSL070",
+        "Images": null,
+        "MainImageUrl": "http://i2.cdscdn.com/pdt2/0/7/0/1/300x300/90XB015PBSL070.jpg",
+        "Name": "Asus MeMO Pad 10 étui rabat 10.1\" Blanc",
+        "Offers": null,
+        "OffersCount": "1",
+        "Rating": "3.75"
+      },
+      {
+        "AssociatedProducts": null,
+        "BestOffer": {
+          "Condition": "New",
+          "Id": "455150675",
+          "IsAvailable": true,
+          "PriceDetails": {
+            "Discount": null,
+            "ReferencePrice": "0",
+            "Saving": null
+          },
+          "ProductURL": "http://www.cdiscount.com/opa.aspx/?trackingid=R8EQD6DnyfenDKmtGLSWalGwdJD0spzlG8hRQIWDFT7f2MM5RzQgaCSCF69wB-2C&action=product&id=90NK0012M00440&offerid=455150675",
+          "SalePrice": "298.6900",
+          "Seller": {
+            "Id": "41603",
+            "Name": "GEANT CASINO TROYES"
+          },
+          "Shippings": [
+            {
+              "DelayToDisplay": "Disponible dans 2h en magasin",
+              "MaxDeliveryDate": "0001-01-01T00:00:00",
+              "MinDeliveryDate": "0001-01-01T00:00:00",
+              "Name": "Retrait immédiat en magasin",
+              "Price": "0"
+            }
+          ],
+          "Sizes": null
+        },
+        "Brand": "ASUS",
+        "Description": "Tablette avec écran  10.1\" tactile capacitif - Processeur  Nvidia Tegra 3 (Quad-Core) - Mémoire 1Go - Stockage 16 Go - Lecteur Micro SDXC  - WiFi b/g/n - Bluetooth - Port MicroHDMI - Android 4.1 Jelly Bean- Garantie 1 an",
+        "Ean": null,
+        "Id": "90NK0012M00440",
+        "Images": null,
+        "MainImageUrl": "http://i2.cdscdn.com/pdt2/4/4/0/1/300x300/90NK0012M00440.jpg",
+        "Name": "ASUS MeMo Pad ME301T 10,1\" 16Go Bleu",
+        "Offers": null,
+        "OffersCount": "1",
+        "Rating": "4.6"
+      },
+      {
+        "AssociatedProducts": null,
+        "BestOffer": {
+          "Condition": "New",
+          "Id": "72453508",
+          "IsAvailable": true,
+          "PriceDetails": {
+            "Discount": null,
+            "ReferencePrice": "0",
+            "Saving": null
+          },
+          "ProductURL": "http://www.cdiscount.com/opa.aspx/?trackingid=R8EQD6DnyfenDKmtGLSWalGwdJD0spzlG8hRQIWDFT7f2MM5RzQgaCSCF69wB-2C&action=product&id=90XB015PBSL3D0&offerid=72453508",
+          "SalePrice": "9.9000",
+          "Seller": {
+            "Id": "8038",
+            "Name": "France Accessoires"
+          },
+          "Shippings": [
+            {
+              "DelayToDisplay": "Expédié sous -17701896 heures",
+              "MaxDeliveryDate": "2020-06-10T00:00:00+02:00",
+              "MinDeliveryDate": "2020-06-08T00:00:00+02:00",
+              "Name": "Envoi Suivi",
+              "Price": "0"
+            }
+          ],
+          "Sizes": null
+        },
+        "Brand": "ASUS",
+        "Description": null,
+        "Ean": null,
+        "Id": "90XB015PBSL3D0",
+        "Images": null,
+        "MainImageUrl": "http://i2.cdscdn.com/pdt2/3/D/0/1/300x300/90XB015PBSL3D0.jpg",
+        "Name": "Asus Coque arrière interchangeable 7\" Or pour ZenP",
+        "Offers": null,
+        "OffersCount": "1",
+        "Rating": "0"
+      }
+    ]
+  }
