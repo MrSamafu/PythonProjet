@@ -9,7 +9,7 @@
                 <div class="alert alert-secondary text-center">
                     <h1>{{ title }}</h1>
                     <p>Voici le produit que tu dois estimer : {{ data.product }}</p>
-                    <p>Voici son prix : {{ data.price }} euros</p>
+                    <p class="d-none" >Voici son prix : {{ data.price }} euros</p>
                     <img class="rounded" src= {{ data.image }} alt={{ data.product }}>
                     <p>{{ data.description }}</p>
                 </div>
